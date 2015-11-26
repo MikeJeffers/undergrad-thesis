@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="libs/OPENGL/gluegen-rt.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="thesisProgram/libs/OPENGL/src"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/OPENGL/jogl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="thesisProgram/libs/OPENGL/src"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/OPENGL/opengl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="thesisProgram/libs/OPENGL/src"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/controlP5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/core.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gicentreUtils.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/modelbuilder.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/toxiclibs_p5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/toxiclibscore.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/verletphysics.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/PEASY/peasycam.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="thesisSolar/libs/OPENGL/src"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/controlP5.jar"/>
+	<classpathentry kind="lib" path="libs/core.jar"/>
+	<classpathentry kind="lib" path="libs/gicentreUtils.jar"/>
+	<classpathentry kind="lib" path="libs/modelbuilder.jar"/>
+	<classpathentry kind="lib" path="libs/toxiclibs_p5.jar"/>
+	<classpathentry kind="lib" path="libs/toxiclibscore.jar"/>
+	<classpathentry kind="lib" path="libs/verletphysics.jar"/>
+	<classpathentry kind="lib" path="libs/OPENGL/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="libs/OPENGL/jogl.jar" sourcepath="libs/OPENGL/jogl.jar"/>
+	<classpathentry kind="lib" path="libs/OPENGL/opengl.jar"/>
+	<classpathentry kind="lib" path="libs/PEASY/peasycam.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
