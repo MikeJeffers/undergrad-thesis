@@ -3,7 +3,7 @@ All major changes and little tweaks should be documented here so we are on the s
 
 ## 2015-11-30
 ### DELETED
- - All the documents for oscP5, which we never use
+ - All the documents for oscP5, which we never use in point structure
 
 ### UPDATED
  - PDF Documents to the docs folder
